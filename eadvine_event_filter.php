@@ -418,4 +418,8 @@ print_r($rr);*/
 
 // hook into the init action and call create_event_taxonomies when it fires
 add_action( 'init', 'wp_create_book_taxonomies', 0 );
+<<<<<<< Updated upstream
 dipankar biswas2
+=======
+dipankar
+>>>>>>> Stashed changes
